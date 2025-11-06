@@ -1,0 +1,70 @@
+body {
+    background-color: aqua;
+    text-align: center;
+    
+}
+
+.h1 {
+    color: red;
+    font-size: 65px;
+    background-color: black;
+    border-radius: 50px;
+}
+
+.eerst {
+    text-align: center;
+    color: violet;
+    background-color: black;
+    border-radius: 50px;
+}
+
+.class1 {
+  
+  color:black;
+}
+.class2{
+    text-align: left;
+    color: black;
+}
+
+.class3{
+ text-align: right;
+}
+.class5{
+    text-align: left;
+}
+.class6{text-align: center;
+}
+.class7{text-align: right;
+}
+.class8{
+    text-align: left;
+}
+.class9{
+    text-align: center;
+}
+.class10{
+    text-align: right;
+}
+.class11{
+    text-align: left;
+}
+.class12{
+    text-align: center;
+}
+.class13{
+    text-align: right;
+}
+.class14{
+    text-align: left;
+}
+.class15{
+    text-align: center;
+}
+.class16{
+    text-align: right;
+}
+.class17{text-align:left;
+}
+.class18{text-align: center;
+}
